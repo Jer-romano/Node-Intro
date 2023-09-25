@@ -1,0 +1,21 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "A simple intro exercise for Node.",
+  "main": "step1.js",
+  "scripts": {
+    "test": "idk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "idk"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "Jeremy Romano",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.5.0"
+  }
+}
